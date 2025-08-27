@@ -9,12 +9,12 @@ const Contacts = () => {
                         <p>Moscow, Russia</p>
                     </li>
                     <li className="content-list__item">
-                        <h2 className="title-2">Telegram / WhatsApp</h2>
-                        <p><a href="tel:+79051234567">+7 (905) 123-45-67</a></p>
+                        <h2 className="title-2">Telegram</h2>
+                        <p><a href="tel:+71234567890">+7 (123) 456-78-90</a></p>
                     </li>
                     <li className="content-list__item">
                         <h2 className="title-2">Email</h2>
-                        <p><a href="mailto:webdev@protonmail.com">webdev@protonmail.com</a></p>
+                        <p><a href="#!">email@e-mail.com</a></p>
                     </li>
                 </ul>
             </div>
